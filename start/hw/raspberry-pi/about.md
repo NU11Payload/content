@@ -7,4 +7,6 @@ section: start-hw
 description:
 ---
 
-# {{page.title}}
+$ Fedora On The Raspberry Pi
+
+The Raspberry Pi is a credit card sized computer, or an SBC (Single Board Computer). 
